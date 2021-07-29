@@ -1,0 +1,6 @@
+This is the output file.
+['lion', 'elephant', 'monkey']
+['lion', 'elephant', 'monkey']
+['lion', 'elephant', 'monkey']
+lion and elephant and monkey
+15

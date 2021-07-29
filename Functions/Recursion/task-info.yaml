@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: recursion.py
+  visible: true
+  placeholders:
+  - offset: 133
+    length: 21
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 134
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PxMooqCiv+6vxfP1UZ6IyAPECtVj6DLY/6g1GM5ILls=
+  encrypted_text: CvRM8VzBPpFdaZTgf2PaKRpntQd/GowtMN5yQpKDzUm9PTvTMSkPp0daipt839SPlckS8HPcJwgU4LrxsQYX72rcVdkQBeAbhUQgn3fusAuWkXY5cTXg47T0+u1g+C5mRX++ze5uMpV3s8fVbt9N95tjOiN3wt+nVHECpWNSpZD3qFRzTXJQnYx4LimOqTUGnMGEFnhi8b4u3aBrw+Mb2Q==
+  learner_created: false
+- name: tests.py
+  visible: false
+  encrypted_text: 6ka25xOk5wV2Eja/yJk8E5k7jJfUYkVGj8FqzASysVInE5EUiuOtTnEjbT46VtwAdEVHHDA+kMIrh1VsgS6UFIsN5EqPPlVYA4F9Lq5TZ15+ZVlcN0xKj1wW6jZkAAZmwFBrbC3DMyxpM53h9ZIuILM+k7GWi9sZxXdPpdfp/7UuYkV/7JPZeBiqjH/wNu1WBhX6PaJAVZ8z4Wl26PvYQfczDcV6wwbUjCgZgD86pBayFqcuXfFeRPLdioqukGVMWW1QQSyNjfLh5dNEUSP/fbfzTy47d1ANW8inRHt6dife2JZfFQ84CGs9owSR+gjEkqXv09NeaNX/Vu1c5CmKGetRFQ+g7Iuc26Hp7+ti1GdqlYqf/fq63JJ2kD66+aYdWsIla3Cxd1tvwG1OFyUFPQce/hzCbg1zPE34sGlP8aKj51n9nW1/2/zKhjTxH63aMyxQdTvdNa6WbdK6O+KgE6ZsGtCWlZetg1OoCij2QiE=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 28 Jul 2021 17:57:36 UTC
+record: -1
